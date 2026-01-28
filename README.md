@@ -1,16 +1,37 @@
-## Hi there 👋
+## 👋 Olá, eu sou o Phelipe
 
-<!--
-**Phelipe-Santos/Phelipe-Santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Foco em desenvolvimento Backend  
+☕ Java | 🐍 Python  
 
-Here are some ideas to get you started:
+Atualmente estou aprimorando meus conhecimentos em programação, com foco em boas práticas, lógica e estruturação de código.  
+Busco minha **primeira oportunidade na área de tecnologia**, onde possa aprender, evoluir e contribuir com soluções eficientes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologias & Ferramentas
+- Java  
+- Python  
+- Programação Orientada a Objetos (POO)  
+- Estruturas de Dados (List, Set, Map)  
+- JavaFX  
+- HTML/CSS  
+- Git & GitHub  
+
+---
+
+## 📚 Em aprendizado contínuo
+- Backend com Java  
+- Organização de projetos e boas práticas  
+- Desenvolvimento de aplicações desktop  
+- Lógica de programação e resolução de problemas  
+
+---
+
+## 🎯 Objetivo profissional
+Atuar como desenvolvedor backend, aplicando conceitos de engenharia de software e construindo soluções robustas e bem estruturadas.
+
+---
+
+## 📫 Contato
+- LinkedIn: https://www.linkedin.com/in/phelipe-pereira-dos-santos-141662127/
